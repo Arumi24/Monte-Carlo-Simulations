@@ -5,4 +5,4 @@
 
 ## _Monty_Hall_MCS.py_
 
-**_Python Program_** using **_Object Oriented Design_** used to solve the classical probability problem **_Monty Hall Problem_**. I simmulate the results using Monte Carlo Simulations
+**_Python Program_** using **_Object Oriented Design_** used to solve the classical probability problem **_Monty Hall Problem_**. I simmulate the results using **_Monte Carlo Methods_**
