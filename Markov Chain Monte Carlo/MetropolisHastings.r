@@ -1,5 +1,3 @@
-
-
 MetropolisAlgorithm<-function(target,lower_limit,upper_limit,sigma,n)
 {
 	X<-rep(0,n)
